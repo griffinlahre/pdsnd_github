@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on August 28, 2020
 
 ### Project Title
-Replace the Project Title
+Griffin's Python Bikeshare Project
 
 ### Description
-Describe what your project is about and what it does
+Allows a user to interact with bikeshare data from three different cities in a self-guided manner. It is very cool.
 
 ### Files used
-Include the files used
+bikeshare_final.py
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity
