@@ -188,12 +188,12 @@ def user_stats(df):
 def display_data(df):
     """Displays as many rows of data as the user requests, 5 rows at a time."""
 
-    view_data = str(input('Would you like to see 5 rows of raw trip data? Enter yes or no: ').lower())
+    view_data = str(input('Would you like to see 5 rows of raw trip data? Enter yes or no only: ').lower())
     start_loc = 0
     while view_data == 'yes':
         print(df.iloc[start_loc : (start_loc + 5)])
         start_loc +=5
-        view_data = str(input('Would you like to see the next 5 rows of data? Enter yes or no: ').lower())
+        view_data = str(input('Would you like to see the next 5 rows of data? Enter yes or no only: ').lower())
 
 
 
