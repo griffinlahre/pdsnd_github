@@ -5,7 +5,7 @@ This project was created on August 28, 2020
 Griffin's Python Bikeshare Project Repository
 
 ### Description
-Allows a user to interact with bikeshare data from three different cities in a self-guided manner.
+Allows a user to interact with bikeshare data from three different cities in a self-guided manner. It is very cool.
 
 ### Files used
 bikeshare_final.py
